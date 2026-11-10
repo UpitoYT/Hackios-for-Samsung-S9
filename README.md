@@ -11,8 +11,19 @@ The author of this project disclaims all liability for any damages, data loss, o
 
 **By using this project, you accept these risks.**
 
+bugs list 
+rear cam
+5Ghz wifi
+bluetooth
+app store
+front cam works but at 180°
+crash in 5-10 minute 🤑
+flashlight
+if you found so new bugs send me a message on my tiktok https://www.tiktok.com/@pepitoooow?is_from_webapp=1&sender_device=pc 
+
 INSTALLATION GUIDE
 You need TWRP—the latest official version:
 twrp-3.7.0_9-0-starlte.img
 LINK: https://eu.dl.twrp.me/starlte/twrp-3.7.0_9-0-starlte.img.html
 Simply flash the file that begins with "sonion." Once the flashing process is complete (don't worry if any errors appear—that is normal), just reboot into the system.
+
