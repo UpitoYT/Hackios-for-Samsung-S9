@@ -25,7 +25,6 @@ INSTALLATION GUIDE
 You need TWRP—the latest official version: twrp-3.7.0_9-0-starlte.img
 Simply flash the file that begins with "sonion." Once the flashing process is complete (don't worry if any errors appear—that is normal), just reboot into the system.
 
-
 ROM Link: https://mega.nz/file/T1oCDJ6Z#6wtzzD65tbW6wzEzcmh9jSJ51gyUBihw4j57oKdmmY0 
 TWRP Link: https://eu.dl.twrp.me/starlte/
 
